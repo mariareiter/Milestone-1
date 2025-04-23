@@ -4,7 +4,7 @@ A Python-based end-to-end project simulating real-time ride-hailing activity in 
 
 ---
 
-## 📦 Features
+## Features
 
 - **Synthetic Data Generation:**  
   Realistic simulation of passenger ride requests and driver availabilities, including zone-level locations, demand surges, cancellations, pricing, accessibility needs, and more.
@@ -17,7 +17,7 @@ A Python-based end-to-end project simulating real-time ride-hailing activity in 
 
 ---
 
-## 🗂️ Data Feeds & Format
+## Data Feeds & Format
 
 ### 1. Passenger Request Events
 
@@ -61,7 +61,7 @@ A Python-based end-to-end project simulating real-time ride-hailing activity in 
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 project-root/
@@ -84,7 +84,7 @@ project-root/
 
 ---
 
-## 🚦 Simulation & Streaming Pipeline
+## Simulation & Streaming Pipeline
 
 1. **Data Generator**:  
    Produces continuous streams of passenger/driver events for Madrid, with realistic demand, zone distribution, cancellations, surge, and accessibility needs.
@@ -99,7 +99,7 @@ project-root/
 
 ---
 
-## 📊 Key Analytics & Use Cases
+## Key Analytics & Use Cases
 
 - **Zone-Level Demand vs. Supply**  
   - Tracks per-zone event counts, identifies shortages, visualizes hot spots (time series + city heatmap).
@@ -116,7 +116,7 @@ project-root/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone the Repository:**
     ```sh
