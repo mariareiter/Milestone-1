@@ -147,6 +147,4 @@ project-root/
 
 ---
 
-Let me know if you need a Markdown file download, customization, or want me to add project badges, contributor credits, etc!
-
 
